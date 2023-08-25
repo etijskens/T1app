@@ -1,0 +1,9 @@
+{
+  "full_name": "Bert Tijskens",
+  "email_address": "engelbert.tijskens@uantwerpen.be",
+  "github_username": "etijskens",
+  "project_name": "T1app",
+  "package_name": "t1app",
+  "project_short_description": "VSC Tier-1 application scripts",
+  "minimal_python_version": "3.9"
+}
